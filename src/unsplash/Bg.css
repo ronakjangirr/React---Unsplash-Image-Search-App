@@ -1,0 +1,30 @@
+body{
+    background-image: url("D:\React\crud1\public\Images\weed.jpg");
+    background-size: cover;
+}
+
+.head-style{
+    display: flex;
+    justify-content: space-around; 
+    margin: 10px;
+}
+
+.div-style1{
+    width: 400px;
+    margin: auto;
+    display: "flex";
+    justify-content: space-around; 
+}
+
+.font-style{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+}
+
+.font-style2{
+    font-size: 20px;
+}
+
+.shadow{
+    box-shadow: 10px 100px 50px burlywood;
+}
