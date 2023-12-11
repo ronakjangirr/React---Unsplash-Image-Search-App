@@ -1,5 +1,5 @@
 body{
-    background-image: url("D:\React\crud1\public\Images\weed.jpg");
+    background-image: url("/public/Images/weed.jpg");
     background-size: cover;
 }
 
