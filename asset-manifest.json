@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/image-search-app/static/css/main.15f6c4e6.css",
+    "main.js": "/image-search-app/static/js/main.fcedffd8.js",
+    "static/js/787.381d97be.chunk.js": "/image-search-app/static/js/787.381d97be.chunk.js",
+    "static/media/weed.jpg": "/image-search-app/static/media/weed.8749f0a0796afdf397ad.jpg",
+    "index.html": "/image-search-app/index.html",
+    "main.15f6c4e6.css.map": "/image-search-app/static/css/main.15f6c4e6.css.map",
+    "main.fcedffd8.js.map": "/image-search-app/static/js/main.fcedffd8.js.map",
+    "787.381d97be.chunk.js.map": "/image-search-app/static/js/787.381d97be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f6c4e6.css",
+    "static/js/main.fcedffd8.js"
+  ]
+}
